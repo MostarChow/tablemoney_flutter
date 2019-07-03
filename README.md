@@ -1,16 +1,15 @@
 # tablemoney_flutter
 
-A new Flutter application.
+订餐费用计算
 
-## Getting Started
+## 简介
 
-This project is a starting point for a Flutter application.
+最近经常跟同事一起点外卖，每次都要算优惠怎么分觉得太麻烦就花了几分钟写了个小应用计算价格。
 
-A few resources to get you started if this is your first Flutter project:
+## 截图
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+iOS
+![image](https://github.com/MostarChow/tablemoney_flutter/blob/master/others/images/ios.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Android
+![image](https://github.com/MostarChow/tablemoney_flutter/blob/master/others/images/android.png)
